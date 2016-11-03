@@ -1,6 +1,7 @@
 # FinancialData
 
-## This Julia program fetches financial data from Quandl/Yahoo Finance and forecasts short-term price ranges using a random forest.
+## This Julia program (in a Jupyter notebook) fetches financial data from Quandl/Yahoo Finance and forecasts short-term price ranges using a random forest.
+The code has been tested with Julia 0.5.0 on juliabox.com.
 
 ### Ensemble of Decision Trees  
 Trees:      100  
