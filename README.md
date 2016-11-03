@@ -26,10 +26,10 @@ Coeff of Determination: 0.8974632834972178
 
 Mean Coeff of Determination: 0.8969913913302485  
 
-![1 year forecast](output_28_0.png)
-
 ![History and forecast](output_27_0.png)
 
-![Features used in model training](output_24_0.png)
+![1 year forecast](output_28_0.png)
 
 ![Volatility](output_30_0.png)
+
+![Features used in model training](output_24_0.png)
