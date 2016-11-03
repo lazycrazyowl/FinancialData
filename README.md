@@ -5,26 +5,26 @@ The code is written in a Jupyter notebook and has been tested with Julia 0.5.0 o
 
 ### Ensemble of Decision Trees  
 Trees:      100  
-Avg Leaves: 437.23  
-Avg Depth:  28.9  
+Avg Leaves: 437.17  
+Avg Depth:  29.96  
 
 ### 3-fold cross validation on regression forest  
 Fold 1  
-Mean Squared Error:     0.010569725315563121  
-Correlation Coeff:      0.9617254663004614  
-Coeff of Determination: 0.9015229552799134  
+Mean Squared Error:     0.010630566949109256  
+Correlation Coeff:      0.9582502272870853  
+Coeff of Determination: 0.8992064550348182  
 
 Fold 2  
-Mean Squared Error:     0.01104033399689102  
-Correlation Coeff:      0.9563548279209828  
-Coeff of Determination: 0.8919879352136142  
+Mean Squared Error:     0.011385375921103212  
+Correlation Coeff:      0.9605884052353014  
+Coeff of Determination: 0.8960285440704898  
 
 Fold 3  
-Mean Squared Error:     0.011153099432022771  
-Correlation Coeff:      0.9590319683304054  
-Coeff of Determination: 0.8974632834972178  
+Mean Squared Error:     0.010931851684387652  
+Correlation Coeff:      0.9566198082432242  
+Coeff of Determination: 0.8944581974048808  
 
-Mean Coeff of Determination: 0.8969913913302485  
+Mean Coeff of Determination: 0.8965643988367296  
 
 ![History and forecast](output_27_0.png)
 
