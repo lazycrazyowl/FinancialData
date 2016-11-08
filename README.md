@@ -9,7 +9,7 @@ Avg Leaves: 437.87
 Avg Depth:  29.88  
 
 ### 3-fold cross validation on regression forest  
-Fold 1
+Fold 1  
 Mean Squared Error:     0.011898742016446409  
 Correlation Coeff:      0.9553657542349979  
 Coeff of Determination: 0.8928846736763904  
