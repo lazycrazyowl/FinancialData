@@ -1,7 +1,9 @@
 # FinancialData
 
 ## This Julia program fetches financial data from Quandl/Yahoo Finance and uses a random forest to forecast the current price's position in relation to its price range over a short term in the future.
+
 The price index in the notebook is a forward looking stochastic oscillator with the Fisher transformation.
+
 The Jupyter notebook is tested with Julia 0.5.0 on juliabox.com.
 
 ### Ensemble of Decision Trees  
